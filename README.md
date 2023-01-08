@@ -25,5 +25,5 @@ I mainly designed and created
 
 * ### embed mosquito and its animation to the scene
 * ### interaction feature(grab the mosquitoes and destroy it after you release the grab button) 
-* ### the sound effect of grabing succefully and the noise made by mosquitoes
+* ### the sound effect of grabing successfully and the noise made by mosquitoes
 

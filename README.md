@@ -14,6 +14,7 @@ If your VR set is Oculus Quest, you can download SideQuest to install the apk pa
 
 To look and modify this game's original code, you can use Unity to open the whole folder as a project.  
 
-## Contributer 
+## Contribution
 
-I contributed to this project as a volunteer and collaberated with a group in the University of Texas at Austin. 
+I contributed to this project as a volunteer and collaberated with a group in the University of Texas at Austin(Amanda, Fanyi, Ishita, Nimra, Soojin). 
+I mainly designed and created the mosquito animation, interaction feature(grab the mosquitoes and destroy it afterwards), and the sound effect of grabing and mosquitoes. 
